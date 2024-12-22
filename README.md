@@ -3,7 +3,7 @@
 ## Abstract
 The Speech Emotion Recognition (SER) project aims to identify human emotions through the pitch, tone, rhythm, and intensity of their speech. Emotions play a crucial role in communication, and the SER system brings similar emotional perception to human-computer interaction, customer service, health monitoring, and security applications. This project employs deep learning mechanisms, specifically Convolutional Neural Networks (CNN), to classify emotions in audio samples using datasets like RAVDESS, TESS, SAVEE, and CREMA-D. The model achieved a pre-training accuracy of 99.42%, showcasing its effectiveness in recognizing emotions from audio signals.
 
-## Link : https://drive.google.com/drive/folders/1DCpOiD2FoD4ZDhXN4aE8d5d6y0W6nz_k
+##### Link : https://drive.google.com/drive/folders/1DCpOiD2FoD4ZDhXN4aE8d5d6y0W6nz_k
 
 ## Objective
 The overall objective is to develop an efficient and reliable SER model using CNNs. The project focuses on accurate classification of emotions from audio samples and explores the potential applications in human-computer interaction, customer support, and mental health checks.
